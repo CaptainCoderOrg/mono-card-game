@@ -9,7 +9,9 @@ public class Board
     private Cell[,] _grid;
 
     /// <summary>
-    /// Instantiates an empty <see cref="Board"/> with the specified dimensions.
+    /// Instantiates an empty <see cref="Board"/> with the specified dimensions
+    /// and initializes all cells to be <see cref="CellState.Unknown"/>, <see
+    /// cref="CellContents.Empty"/>, and having 0 neighbor mines.
     /// </summary>
     /// <param name="rows"></param>
     /// <param name="columns"></param>
@@ -216,7 +218,7 @@ public class Board
     }
 
     /// <summary>
-    /// Places mines on the grid in the specified <paramref name="positions"/>.
+    /// Places mines on the grid in the specified <paramref name="positions"/>.t
     /// </summary>
     public void PlaceMines(List<Position> positions)
     {
@@ -228,6 +230,10 @@ public class Board
         InitMineCounts();
     }
 
+    /// <summary>
+    /// Randomly places the specified number of mines ensuring that the
+    /// specified <paramref name="emptyPosition"/> does not have a mine.
+    /// </summary>
     public void PlaceRandomMines(Position emptyPosition, int mineCount)
     {
         List<Position> minePlacements = Positions.Shuffle().Where(p => p != emptyPosition).Take(mineCount).ToList();
@@ -248,8 +254,10 @@ public class Board
     }
 
     /// <summary>
-    /// Creates a 2D array of Cells with the specified number of <paramref name="rows"/> and <paramref name="columns"/>.
-    /// Each cell is initialized to be cell with CellState.Unknown, CellContents.Empty, and 0 neighbor mines.
+    /// Creates a 2D array of Cells with the specified number of <paramref
+    /// name="rows"/> and <paramref name="columns"/>. Each cell is initialized
+    /// to be cell with <see cref="CellState.Unknown"/>, <see
+    /// cref="CellContents.Empty"/, and 0 neighbor mines.
     /// </summary>
     public static Cell[,] InitEmptyGrid(int rows, int columns)
     {
