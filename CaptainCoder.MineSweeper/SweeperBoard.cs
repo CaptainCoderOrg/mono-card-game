@@ -1,5 +1,5 @@
 ﻿namespace CaptainCoder.MineSweeper;
-public class Class1
+public class SweeperBoard
 {
 
 }
