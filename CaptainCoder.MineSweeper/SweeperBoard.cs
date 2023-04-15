@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using CaptainCoder.Core;
+﻿using CaptainCoder.Core;
 namespace CaptainCoder.MineSweeper;
 
 /// <summary>
@@ -163,8 +162,9 @@ public class Board
     /// A position is a valid neighbor position if it is within the boards
     /// bounds and not the specified position.
     /// </summary>
-    public IEnumerable<Position> Neighbors(Position position)
+    public List<Position> Neighbors(Position position)
     {
+        List<Position> neighbors = new();
         for (int row = -1; row <= 1; row++)
         {
             for (int col = -1; col <= 1; col++)
@@ -173,25 +173,28 @@ public class Board
                 if (neighborPosition == position) { continue; }
                 if (neighborPosition.Row < 0 || neighborPosition.Row >= Rows ||
                     neighborPosition.Col < 0 || neighborPosition.Col >= Columns) { continue; }
-                yield return neighborPosition;
+                neighbors.Add(position);
             }
         }
+        return neighbors;
     }
 
     /// <summary>
     /// Provides an enumerable of all positions on this <see cref="SweeperBoard"/>
     /// </summary>
-    public IEnumerable<Position> Positions
+    public List<Position> Positions
     {
         get
         {
+            List<Position> positions = new();
             for (int row = 0; row < Rows; row++)
             {
                 for (int col = 0; col < Columns; col++)
                 {
-                    yield return new Position(row, col);
+                    positions.Add((row, col));
                 }
             }
+            return positions;
         }
     }
 
