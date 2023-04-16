@@ -10,8 +10,8 @@ public class Board
 
     /// <summary>
     /// Instantiates an empty <see cref="Board"/> with the specified dimensions
-    /// and initializes all cells to be <see cref="CellState.Unknown"/>, <see
-    /// cref="CellContents.Empty"/>, and having 0 neighbor mines.
+    /// and initializes all cells to be <see cref="CellState.Unknown"/> and <see
+    /// cref="CellContents.Empty"/>
     /// </summary>
     /// <param name="rows"></param>
     /// <param name="columns"></param>
@@ -118,9 +118,9 @@ public class Board
         Cell cell = Examine(position);
         if (cell.State == CellState.Revealed) { return; }
         _grid[position.Row, position.Col] = cell with { State = CellState.Revealed };
-        if (cell.NeighborMines == 0)
+        if (CountNeighborMines(position) == 0)
         {
-            foreach (Position neighbor in Neighbors(position))
+            foreach (Position neighbor in FindNeighbors(position))
             {
                 FloodReveal(neighbor);
             }
@@ -164,7 +164,7 @@ public class Board
     /// A position is a valid neighbor position if it is within the boards
     /// bounds and not the specified position.
     /// </summary>
-    public List<Position> Neighbors(Position position)
+    public List<Position> FindNeighbors(Position position)
     {
         List<Position> neighbors = new();
         for (int row = -1; row <= 1; row++)
@@ -175,7 +175,7 @@ public class Board
                 if (neighborPosition == position) { continue; }
                 if (neighborPosition.Row < 0 || neighborPosition.Row >= Rows ||
                     neighborPosition.Col < 0 || neighborPosition.Col >= Columns) { continue; }
-                neighbors.Add(position);
+                neighbors.Add(neighborPosition);
             }
         }
         return neighbors;
@@ -206,7 +206,7 @@ public class Board
     public int CountNeighborMines(Position position)
     {
         int neighborMines = 0;
-        foreach (Position neighbor in Neighbors(position))
+        foreach (Position neighbor in FindNeighbors(position))
         {
             Cell cell = _grid[neighbor.Row, neighbor.Col];
             if (cell.Contents == CellContents.Mine)
@@ -218,7 +218,7 @@ public class Board
     }
 
     /// <summary>
-    /// Places mines on the grid in the specified <paramref name="positions"/>.t
+    /// Places mines on the grid in the specified <paramref name="positions"/>.
     /// </summary>
     public void PlaceMines(List<Position> positions)
     {
@@ -227,7 +227,6 @@ public class Board
             Cell cell = Examine(position);
             _grid[position.Row, position.Col] = cell with { Contents = CellContents.Mine };
         }
-        InitMineCounts();
     }
 
     /// <summary>
@@ -241,32 +240,19 @@ public class Board
     }
 
     /// <summary>
-    /// Initializes the neighbor mine counts.
-    /// </summary>
-    public void InitMineCounts()
-    {
-        foreach (Position position in Positions)
-        {
-            int neighborMines = CountNeighborMines(position);
-            Cell cell = Examine(position);
-            _grid[position.Row, position.Col] = cell with { NeighborMines = neighborMines };
-        }
-    }
-
-    /// <summary>
     /// Creates a 2D array of Cells with the specified number of <paramref
     /// name="rows"/> and <paramref name="columns"/>. Each cell is initialized
     /// to be cell with <see cref="CellState.Unknown"/>, <see
     /// cref="CellContents.Empty"/, and 0 neighbor mines.
     /// </summary>
-    public static Cell[,] InitEmptyGrid(int rows, int columns)
+    private static Cell[,] InitEmptyGrid(int rows, int columns)
     {
         Cell[,] grid = new Cell[rows, columns];
         for (int row = 0; row < rows; row++)
         {
             for (int col = 0; col < columns; col++)
             {
-                grid[row, col] = new Cell(CellState.Unknown, CellContents.Empty, 0);
+                grid[row, col] = new Cell(CellState.Unknown, CellContents.Empty);
             }
         }
         return grid;
