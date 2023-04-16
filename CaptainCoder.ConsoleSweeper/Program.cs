@@ -8,35 +8,50 @@ const int ROWS = 10;
 const int COLUMNS = 10;
 const int MINES = 10;
 
-Board board = new (ROWS, COLUMNS);
-GameController controller = new (board, MINES);
+bool isPlaying = true;
+
+GameController controller = new (ROWS, COLUMNS, MINES);
 
 do
 {
     controller.Render();
     ConsoleKeyInfo keyinfo = Console.ReadKey();
     HandleInput(keyinfo);
-} while (board.State == BoardState.Playing);
-
-controller.Render();
-
-if (board.State == BoardState.Win)
-{
-    AnsiConsole.Markup("You Win!");
-}
-else if (board.State == BoardState.BlownUp) 
-{
-    AnsiConsole.Markup("You blowed up!");
-}
-else
-{
-    AnsiConsole.Markup("Something unexpected happened.");
-}
+} while (isPlaying);
 
 void HandleInput(ConsoleKeyInfo info)
 {
     UpdatePosition(info);
     CheckReveal(info);
+    CheckNewGame(info);
+    CheckExit(info);
+}
+
+void CheckExit(ConsoleKeyInfo info)
+{
+    if (info.Key == ConsoleKey.Escape)
+    {
+        Console.Clear();
+        AnsiConsole.Write(new FigletText("Goodbye!").Color(Color.Green));
+        isPlaying = false;
+    }
+}
+
+void CheckNewGame(ConsoleKeyInfo info)
+{
+    
+    if (info.Key == ConsoleKey.D1)
+    {
+        controller.NewGame(10, 10, 10);
+    }
+    else if (info.Key == ConsoleKey.D2)
+    {
+        controller.NewGame(12, 12, 25);
+    }
+    else if (info.Key == ConsoleKey.D3)
+    {
+        controller.NewGame(15, 15, 50);
+    }
 }
 
 void CheckReveal(ConsoleKeyInfo info)

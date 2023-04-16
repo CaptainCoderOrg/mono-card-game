@@ -68,6 +68,22 @@ public class Board
         }
     }
     /// <summary>
+    /// The number of <see cref="Cell"/>s that have been marked <see cref="CellState.Flagged"/> on this <see cref="Board"/>.
+    /// </summary>
+    public int Flags
+    {
+        get
+        {
+            int flagged = 0;
+            foreach (Position pos in Positions)
+            {
+                Cell c = Examine(pos);
+                if (c.State == CellState.Flagged) { flagged++; }
+            }
+            return flagged;
+        }
+    }
+    /// <summary>
     /// The current <see cref="BoardState"/> of this <see cref="State"/>.
     /// </summary>
     public BoardState State { get; private set; }

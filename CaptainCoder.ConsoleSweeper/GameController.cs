@@ -8,11 +8,9 @@ public class GameController
     private Position _cursorPosition = (0, 0);
     private bool _isFirstMove;
     private int _mines;
-    public GameController(Board board, int mines)
+    public GameController(int rows, int cols, int mines)
     {
-        Board = board;
-        _isFirstMove = true;
-        _mines = mines;
+        NewGame(rows, cols, mines);
     }
 
     public Board Board { get; private set; }
@@ -42,36 +40,99 @@ public class GameController
     public void Render()
     {
         Console.Clear();
-        // Create a table
-        Panel boardPanel = new Panel(BoardContents());
-        boardPanel.Header = new PanelHeader("Console Sweeper");
-        AnsiConsole.Write(boardPanel);
+        
+        Panel boardPanel = new (BoardContents());
+
+        Panel controlsPanel = new (Info);
+        controlsPanel.Header = new PanelHeader("Controls");
+
+        var rightColumn = new Rows(
+                    controlsPanel,
+                    GetGameInfo()
+                );
+        var mainGame = new Columns(
+                boardPanel, 
+                rightColumn
+        ).Collapse();
+
+        string TitleText = Board.State switch
+        {
+            BoardState.BlownUp => "BOOM",
+            BoardState.Win => "You Win",
+            BoardState.Playing => "Sweeper",
+            _ => throw new NotImplementedException()
+        };     
+
+        var layout = new Rows(
+            new FigletText(TitleText).Color(Spectre.Console.Color.Red).Centered(),
+            new Text(""),
+            Align.Center(mainGame)
+        );
+
+        layout.Collapse();
+        
+        AnsiConsole.Write(layout);
     }
+
+    public void NewGame(int rows, int cols, int mines)
+    {
+        Board = new Board(rows, cols);
+        _isFirstMove = true;
+        CursorPosition = (0, 0);
+        _mines = mines;
+    }
+
+    public Panel GetGameInfo()
+    {
+        string info = 
+        $"""
+        Mines: {_mines}
+        Flagged: {Board.Flags}
+        Status: {Board.State}
+        Revealed: {Board.Revealed}
+        Remaining: {Board.Rows * Board.Columns - Board.Revealed}
+        """;
+        Panel gameInfo = new (info);
+        gameInfo.Header = new PanelHeader("Game Info");
+        gameInfo.Width = 60;
+        return gameInfo;
+    }
+
+    public string Info { get; } = 
+    """
+    Arrow Keys - Move Cursor
+    F - Flag a Space
+    Space Bar - Reveal Space
+    1 - New Game Easy
+    2 - New Game Medium
+    3 - New Game Hard
+    ESC - Exit
+    """.Trim();
 
     public string BoardContents()
     {
         StringBuilder builder = new ();
-        builder.Append("\n");
         for (int row = 0; row < Board.Rows; row++)
         {
+            if (row > 0) { builder.Append("\n"); }
             for (int col = 0; col < Board.Columns; col++)
             {
                 Position position = (row, col);
                 builder.Append(StylePosition(position));
             }
-            builder.Append("\n");
         }
         return builder.ToString();
     }
 
     public char GetSymbol(Cell cell, int neighborMines)
     {
-        return (cell.State, cell.Contents) switch
+        return (cell.State, cell.Contents, neighborMines) switch
         {
-            (CellState.Unknown, _) => '.',
-            (CellState.Flagged, _) => '!',
-            (CellState.Revealed, CellContents.Mine) => '*',
-            (CellState.Revealed, CellContents.Empty) => neighborMines.ToString()[0],
+            (CellState.Unknown, _, _) => '.',
+            (CellState.Flagged, _, _) => '!',
+            (CellState.Revealed, CellContents.Mine, _) => '*',
+            (CellState.Revealed, CellContents.Empty, 0) => ' ',
+            (CellState.Revealed, CellContents.Empty, _) => neighborMines.ToString()[0],
             _ => throw new NotImplementedException()
         };
     }
@@ -86,7 +147,7 @@ public class GameController
             '3' => ("[purple_1]", "[/]"),
             '4' => ("[darkviolet]", "[/]"),
             '5' => ("[darkmagenta_1]", "[/]"),
-            '6' => ("[mediumvioletred	]", "[/]"),
+            '6' => ("[mediumvioletred]", "[/]"),
             '7' => ("[deeppink4_2]", "[/]"),
             '8' => ("[darkorange3]", "[/]"),
             '!' => ("[yellow]", "[/]"),
