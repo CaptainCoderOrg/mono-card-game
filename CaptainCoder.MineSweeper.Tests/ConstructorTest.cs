@@ -80,7 +80,7 @@ public class ConstructorTest
         {
             Cell expected = new(CellState.Unknown, CellContents.Empty);
             Cell actual = board5x10.Examine((0, 0));
-            Assert.True(expected == actual, $"The cell at {position} was initialized to {actual}");
+            Assert.True(expected == actual, $"The cel lat {position} was initialized to {actual}");
         }
     }
     
