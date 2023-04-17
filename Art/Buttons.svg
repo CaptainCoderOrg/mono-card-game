@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2361"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Buttons.svg">
+  <defs
+     id="defs2355" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="551.69792"
+     inkscape:cy="-86.427384"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1346"
+     inkscape:window-height="798"
+     inkscape:window-x="2308"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';stroke-width:0.264583"
+       x="168.01042"
+       y="45.772915"
+       id="text3077"><tspan
+         sodipodi:role="line"
+         id="tspan3075"
+         x="168.01042"
+         y="45.772915"
+         style="stroke-width:0.264583"></tspan></text>
+    <g
+       id="g3582"
+       transform="translate(-38.253622,-2.8105208)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5"
+         transform="matrix(0.26458333,0,0,0.26458333,-25.003124,-111.67306)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7" />
+      </g>
+      <g
+         id="g3560"
+         transform="translate(-21.900216,-1.3229164)">
+        <g
+           id="g3331"
+           transform="translate(-50.739803,-35.062391)">
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+             x="140.82863"
+             y="56.591007"
+             id="text2967-5-4"><tspan
+               sodipodi:role="line"
+               id="tspan2965-6-4"
+               x="140.82863"
+               y="56.591007"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">2</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#008080;stroke-width:0.264583"
+           x="90.617996"
+           y="20.999449"
+           id="text2967-5-4-6"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-8"
+             x="90.617996"
+             y="20.999449"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#008080;stroke-width:0.264583">2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3500"
+       transform="translate(-58.672482,38.577879)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5-51"
+         transform="matrix(0.26458333,0,0,0.26458333,15.742707,-153.06146)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-1" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-2" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-20" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-68" />
+      </g>
+      <g
+         id="g3487"
+         transform="translate(-41.104613,-77.727199)">
+        <g
+           id="g3327">
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+             x="150.05972"
+             y="56.49799"
+             id="text2967-5-4-0"><tspan
+               sodipodi:role="line"
+               id="tspan2965-6-4-6"
+               x="150.05972"
+               y="56.49799"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">3</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#00ffff;stroke-width:0.264583"
+             x="150.5889"
+             y="55.968822"
+             id="text2967-5-4-0-8"><tspan
+               sodipodi:role="line"
+               id="tspan2965-6-4-6-8"
+               x="150.5889"
+               y="55.968822"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#00ffff;stroke-width:0.264583">3</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3595"
+       transform="translate(-66.920501,23.232039)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5-2"
+         transform="matrix(0.26458333,0,0,0.26458333,44.317713,-137.71562)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-3" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-7" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-32" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-77" />
+      </g>
+      <g
+         id="g3530"
+         transform="translate(-22.393769,-62.474376)">
+        <g
+           id="g3321">
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+             x="160.00398"
+             y="56.591007"
+             id="text2967-5-4-0-0"><tspan
+               sodipodi:role="line"
+               id="tspan2965-6-4-6-5"
+               x="160.00398"
+               y="56.591007"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">4</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000080;stroke-width:0.264583"
+           x="160.53316"
+           y="56.06184"
+           id="text2967-5-4-0-0-23"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-1"
+             x="160.53316"
+             y="56.06184"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000080;stroke-width:0.264583">4</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3607"
+       transform="translate(-65.114353,42.282039)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5-5"
+         transform="matrix(0.26458333,0,0,0.26458333,62.83854,-156.76562)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-8" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-6" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-2" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-6" />
+      </g>
+      <g
+         id="g3317"
+         transform="translate(-12.589881,-81.477867)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+           x="168.62532"
+           y="56.49799"
+           id="text2967-5-4-0-0-2"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5"
+             x="168.62532"
+             y="56.49799"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#800080;stroke-width:0.264583"
+           x="169.1545"
+           y="55.968822"
+           id="text2967-5-4-0-0-2-1"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5-4"
+             x="169.1545"
+             y="55.968822"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#800080;stroke-width:0.264583">5</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3619"
+       transform="translate(-62.681168,0.61083925)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\6.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5-7"
+         transform="matrix(0.26458333,0,0,0.26458333,80.732346,-115.09442)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-2" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-0" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-3" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-7" />
+      </g>
+      <g
+         id="g3311"
+         transform="translate(-4.2837214,-39.806667)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+           x="178.22847"
+           y="56.49799"
+           id="text2967-5-4-0-0-2-4"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5-9"
+             x="178.22847"
+             y="56.49799"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#550000;stroke-width:0.264583"
+           x="178.75764"
+           y="55.968822"
+           id="text2967-5-4-0-0-2-4-1"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5-9-6"
+             x="178.75764"
+             y="55.968822"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#550000;stroke-width:0.264583">6</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3632"
+       transform="translate(-47.214574,22.173709)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\7.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5-9"
+         transform="matrix(0.26458333,0,0,0.26458333,85.592707,-136.65729)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-9" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-3" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-9" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-0" />
+      </g>
+      <g
+         id="g3537"
+         transform="translate(-8.6984207,-61.416046)">
+        <g
+           id="g3305">
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+             x="187.57846"
+             y="56.591007"
+             id="text2967-5-4-0-0-2-4-2"><tspan
+               sodipodi:role="line"
+               id="tspan2965-6-4-6-5-5-9-2"
+               x="187.57846"
+               y="56.591007"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">7</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#ff5555;stroke-width:0.264583"
+           x="188.10764"
+           y="56.06184"
+           id="text2967-5-4-0-0-2-4-2-0"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5-9-2-74"
+             x="188.10764"
+             y="56.06184"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff5555;stroke-width:0.264583">7</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3644"
+       transform="translate(-32.179251,48.102869)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340-5-91"
+         transform="matrix(0.26458333,0,0,0.26458333,90.884377,-162.58645)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-22" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-07" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-36" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-74" />
+      </g>
+      <g
+         id="g3301"
+         transform="translate(-12.738614,-87.252189)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+           x="196.88707"
+           y="56.49799"
+           id="text2967-5-4-0-0-2-4-2-2"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5-9-2-7"
+             x="196.88707"
+             y="56.49799"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#ff0000;stroke-width:0.264583"
+           x="197.41624"
+           y="55.968822"
+           id="text2967-5-4-0-0-2-4-2-2-5"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-6-5-5-9-2-7-9"
+             x="197.41624"
+             y="55.968822"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#ff0000;stroke-width:0.264583">8</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3349"
+       transform="translate(-111.87524,-8.9715308)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g2340"
+         transform="matrix(0.26458333,0,0,0.26458333,28.291519,-105.51205)">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432" />
+      </g>
+      <g
+         id="g3337"
+         transform="translate(-10.029007,-30.255303)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#000000;stroke-width:0.264583"
+           x="131.57169"
+           y="56.591007"
+           id="text2967-5-4-7"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-5"
+             x="131.57169"
+             y="56.591007"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#000000;stroke-width:0.264583">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'KG HAPPY Solid';-inkscape-font-specification:'KG HAPPY Solid';fill:#008000;stroke-width:0.264583"
+           x="132.10086"
+           y="56.06184"
+           id="text2967-5-4-7-1"><tspan
+             sodipodi:role="line"
+             id="tspan2965-6-4-5-0"
+             x="132.10086"
+             y="56.06184"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#008000;stroke-width:0.264583">1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2340-5-4"
+       transform="matrix(0.26458333,0,0,0.26458333,80.068954,-113.5225)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\blank.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         stroke="none"
+         fill="#ffffff"
+         d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+         id="path426-0-30" />
+      <path
+         stroke="none"
+         fill="#d5d5d5"
+         d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+         id="path428-1-69" />
+      <path
+         stroke="none"
+         fill="#eeeeee"
+         d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+         id="path430-4-5" />
+      <path
+         stroke="none"
+         fill="#aaaaaa"
+         d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+         id="path432-7-4" />
+    </g>
+    <g
+       id="g3721">
+      <g
+         id="g2340-5-4-5"
+         transform="matrix(0.26458333,0,0,0.26458333,94.763996,-145.0286)"
+         inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\blank.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           stroke="none"
+           fill="#ffffff"
+           d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+           id="path426-0-30-0" />
+        <path
+           stroke="none"
+           fill="#d5d5d5"
+           d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+           id="path428-1-69-6" />
+        <path
+           stroke="none"
+           fill="#eeeeee"
+           d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+           id="path430-4-5-7" />
+        <path
+           stroke="none"
+           fill="#aaaaaa"
+           d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+           id="path432-7-4-0" />
+      </g>
+      <image
+         width="7.839942"
+         height="8.4865351"
+         preserveAspectRatio="none"
+         xlink:href="data:image/png;base64,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
+XppCPg+8n9E3ZYGBW6BnzemttY/TByBNXS3fAAeHwFiBstdd3t3d2du/Z1r9/QBjy3KhxKg5bwAA
+D5xpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVN
+ME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0
+YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDQuNC4wLUV4aXYyIj4KIDxyZGY6UkRGIHhtbG5zOnJkZj0i
+aHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgPHJkZjpEZXNj
+cmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgIHhtbG5zOmlwdGNFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9z
+dGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iCiAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFk
+b2JlLmNvbS94YXAvMS4wL21tLyIKICAgIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29t
+L3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiCiAgICB4bWxuczpwbHVzPSJodHRwOi8vbnMu
+dXNlcGx1cy5vcmcvbGRmL3htcC8xLjAvIgogICAgeG1sbnM6R0lNUD0iaHR0cDovL3d3dy5naW1w
+Lm9yZy94bXAvIgogICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEv
+IgogICAgeG1sbnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iCiAgICB4bWxu
+czp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcE1NOkRvY3VtZW50SUQ9
+ImdpbXA6ZG9jaWQ6Z2ltcDo0MTZjZWU4Yi0yZjgxLTRjYTAtYjE1MC03NTI1ZTBmNzcwMDEiCiAg
+IHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ZGIwZmM0YWYtNzljMi00NTBlLWFiYzMtNWY2NDY1
+MjAyODUwIgogICB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6OTUyMjI4NzktNzdj
+OS00NTY2LWIxYzktYWZkMjU1ZGVlMmM2IgogICBHSU1QOkFQST0iMi4wIgogICBHSU1QOlBsYXRm
+b3JtPSJXaW5kb3dzIgogICBHSU1QOlRpbWVTdGFtcD0iMTY4MTc0MjA4MTY5MTIwOCIKICAgR0lN
+UDpWZXJzaW9uPSIyLjEwLjIyIgogICBkYzpGb3JtYXQ9ImltYWdlL3BuZyIKICAgdGlmZjpPcmll
+bnRhdGlvbj0iMSIKICAgeG1wOkNyZWF0b3JUb29sPSJHSU1QIDIuMTAiPgogICA8aXB0Y0V4dDpM
+b2NhdGlvbkNyZWF0ZWQ+CiAgICA8cmRmOkJhZy8+CiAgIDwvaXB0Y0V4dDpMb2NhdGlvbkNyZWF0
+ZWQ+CiAgIDxpcHRjRXh0OkxvY2F0aW9uU2hvd24+CiAgICA8cmRmOkJhZy8+CiAgIDwvaXB0Y0V4
+dDpMb2NhdGlvblNob3duPgogICA8aXB0Y0V4dDpBcnR3b3JrT3JPYmplY3Q+CiAgICA8cmRmOkJh
+Zy8+CiAgIDwvaXB0Y0V4dDpBcnR3b3JrT3JPYmplY3Q+CiAgIDxpcHRjRXh0OlJlZ2lzdHJ5SWQ+
+CiAgICA8cmRmOkJhZy8+CiAgIDwvaXB0Y0V4dDpSZWdpc3RyeUlkPgogICA8eG1wTU06SGlzdG9y
+eT4KICAgIDxyZGY6U2VxPgogICAgIDxyZGY6bGkKICAgICAgc3RFdnQ6YWN0aW9uPSJzYXZlZCIK
+ICAgICAgc3RFdnQ6Y2hhbmdlZD0iLyIKICAgICAgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDpl
+MDg1NGZiOS03MTg0LTQzNjctOWVkYS1kYjU1NDZkMGNhNGUiCiAgICAgIHN0RXZ0OnNvZnR3YXJl
+QWdlbnQ9IkdpbXAgMi4xMCAoV2luZG93cykiCiAgICAgIHN0RXZ0OndoZW49IjIwMjMtMDQtMTdU
+MDc6MzQ6NDEiLz4KICAgIDwvcmRmOlNlcT4KICAgPC94bXBNTTpIaXN0b3J5PgogICA8cGx1czpJ
+bWFnZVN1cHBsaWVyPgogICAgPHJkZjpTZXEvPgogICA8L3BsdXM6SW1hZ2VTdXBwbGllcj4KICAg
+PHBsdXM6SW1hZ2VDcmVhdG9yPgogICAgPHJkZjpTZXEvPgogICA8L3BsdXM6SW1hZ2VDcmVhdG9y
+PgogICA8cGx1czpDb3B5cmlnaHRPd25lcj4KICAgIDxyZGY6U2VxLz4KICAgPC9wbHVzOkNvcHly
+aWdodE93bmVyPgogICA8cGx1czpMaWNlbnNvcj4KICAgIDxyZGY6U2VxLz4KICAgPC9wbHVzOkxp
+Y2Vuc29yPgogIDwvcmRmOkRlc2NyaXB0aW9uPgogPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNr
+ZXQgZW5kPSJ3Ij8+nQN+igAAAAZiS0dEAP8AvwC0MSmySwAAAAlwSFlzAAALEwAACxMBAJqcGAAA
+AAd0SU1FB+cEEQ4iKTUu5OYAABiaSURBVHja7V1trC1XWX7WrPne+3y0pbS00BYuBLG1KEgDiUJs
+/FEV0RgMkTRi9BoTYqSC0Vb8gTWx1hYlqbHEhER/aCpKAgpo1CA08hHlhpQUBbxwKeXeSy/3yrnn
+nP0xn8sfa70z76y9Zp+zP85tNWclkz3n7L1nz7zPer+e910zwPE4HsfjeByP43E8jsfxOB7H43gc
+j+NxPI7H8Tge7iGORXBk8lKH/aD/f+DixIIXqNYkTOX4nGDbvO+pRc5LPAcEzi9KLHGxynHx6pAC
+tc9H9ZwvbZ75n2edH//dmr2C/d37G/6zIHjRs3mOixVzNEFZF+kSAP+cmPP7cAiTf8czm2T7nuO7
+lfntmu3bE0bYQPhXSPgugc/bhHWRfYLiQq8tASgLIPScg+jRLv7b0mw+2+eTRrHfrQCU5rUw79vn
+c+SaYM96zyF46dj4//uEBGv224Lnmw0GB8E1oxWA1wP4pAM0AiAgIG644Yb43nvv/eHrr7/+lu3t
+7Zekafqy8Xj85HQ6fer06dOffOc733nKkkfFfqejDeIIZz4XvrRmk2uTAGQQBMOtra03RFF8exD4
+twRBcFUYhjcopQBAKaVQ1zX0qyqKIj9fVdW3y7L8WlEUX7p06dLH2UysLLMgeiaCAPA7AH4BwB8D
+eJ8RksdACAEE1157bXr//fe/6dZbbz0ZBMG1fYIoiuJLOzs7f/n444//zcMPP3yenZOtnWsDYZ7w
+uaAD17a5uflTcZzcGcfRy9M0vTqKIuH7PqSU8DwPSgl4HqCUggGjAaKqquZ/VVWhrut6Op2en0wm
+X8yy7MOXLl36FwsEl2n5DQBvZdfzpwAeZdbCAxC8+c1vPnHy5Mk/jOP4xsMKZjqdfuiuu+76RQOC
+DcRaQODf9xwXyQUfmi0CEIZh+Crf938pjpNXxnEURlEE2nzfRxiGkFJCCAHf9wEICNEKnwNQVVrT
+67oCaQp9bjKZ7I/H48/t7Ow8ur+//3XHxPg1AD/juLYPAPhzc13+u971rjfceeedvymljBcRkFJq
++tBDD73kE5/4xJ7xERUzkyuDIHpUnAufhB6b/TgIgjcppU7Wdf28KIqRJDGSJEGSJAjDEGmaIgiC
+BoQgCOB5HjzPax1CXaOqFJSqUNcKVVUaMGooVXe0hACpqhp7e7vf+O53v/uBnZ2dU+b8TgL4yTnX
++FcAPvjud7/7ja95zWtO9n1oPB6fu3DhwheeeeaZLwsh8hMnTnz/5ubm7UEQ3AgA586d+7m3v/3t
+HzMglDYI/ooA2LPfnvGx2RIp5U8rpU4WRbHdflWfBwk5CAJIKeH7PqIogpSyAcPzPEgpaXaZ2Q+U
+ZYmqqpqt9Rc1ylKDU5YlyrLEVVdddcvW1tbv7e3tPXP+/Pmnx+PxDx5wnW+9++67b7/ttttum0wm
+Lrs/OnXq1AcfffTRf8zzfAogM9vfAZg88MADd9188833RlH0egAfd0R7alkQXLFzYM38hDYhxK1C
+iPdUVXUDP4iUohGYELIDRBAEjUki8+T7PjzPgxCioxFFUTRA0CuBQKAQCPT+9vb2dRsbG9ddvHgR
+58+fbwCdCR19HydOnLhtOp3OvLe7u/v1Rx555OHTp09fNDO8YDO9BFDfd999H3rb29726TvuuOMt
+8xJksQQAogeAZtYDGABIAbwDwBvN5zqHkVLP7CRJsLGxgY2NDcRxjMFggOFwiDiOGx8RhqExSz6E
+UI1GVFWNqipRlhWqSguYg0JAEED0HgdkOp3i6aefxu7urvOCkyTBPffcg5tuuqn539mzZz/z3ve+
+9/2TyWRkZn5uAMitbcrezxlInQhJrgCAT3beCD4FsAFgE8CLADwC4LUs+20PJASklI2Z8f0QQaBN
+UBBogcdxjDiOEYYxwjBAkiSI4whpmhpgIkRRaD4TNpuUPsIwaDSHaxH9HteoIAiwva0t5Gg0mrno
+sizx+c9/Hi996UsxGAxw5syZxx988MH3l2U5BjAx25QJ3BZ6MS88XQQE4Qg7uekZMABeZ+Ls3hia
+C0ObIG16tAkigcfGUSdI0xS+7yNNB0iSuAGInHkcx0jTdMZ8cQAo5CWfI4ToOPvhcIjBYIDd3V3U
+dT0DxBNPPIHd3V089thjpwB80Qh/zF77Zn1p5Ss8eTw0CIJ9VrLEJTKzf2gA2ALwEwDuM++5DybE
+jCZIKY0WBM0rCdf3fSSJBiKOtXnSICRI06QTWdErbUEQMm3zO7/pedJoBBqtCMMQm5ubuHz58oyf
+KIoCTz31FAC8wgj4PxgIU7YVDg3gnJJNPB4IAgfANkEEwKbZ7gbwKwcdUzth0TEPQmiNoJkcx3Hj
+oKMoQZJoszQYpI2WDIeDxoeQ7yANIS3yfb/RMtLAFgjRmCXalNL+ZnNzE/v7+yjLsu8yvs8I/HNM
+E8gUFVY+wAFwsqjykFGQbYI4AFsAftak/Ac6erp4EoA2D7KxzxQZxbEWfhTFSNMEURQiirRfGAwG
+jTlK0xRpqsEhh54kCYKg9RnSkwjCoIl4PNGGuzQBKOsmILa2trC7uzsPiFcbID4zRwNqhy9YGARx
+AACbAH4cwC+7HHCfOSJTQBESNxNBECEMg8a5ksPW2uF3ZnySDBDHEYbDYQMAgUBg6WMEjWZwp6x9
+Q3teHAghBDY2NrCzszPjI9h4rQHg00YLXLa/nlPomQsCd8SU/bp8wB2Gd5GHBUDPfo/ZZW6aJILA
+N9oRIorCRjMoVCUfEEURkiTuCH8wGDRaMhgM2OeSxmSRBvAkkc6Nc1J1XcPzPAyHQ+zs7DQAOcZF
+AB81znhuFLSIObIdccCy3wEzQc8H8MA8J+zWAq/jD4gf0s6z5YqkbENXmsFJkjQRTxRFTdSkfcQQ
+YahpkI2NjcZEXXPNNbj66qtxzTXXYHNzs4miiPCj89L0RpccJKDCMMTly5ddl/QxkwtNLQDWUmO2
+kzEKRYfMFL3HgLIU32erPpmDuq6R57lJrHJkWdHQFPR/ni0nSQIpNd1B0RNpjz2qqsKFC9/BuXNn
+kaYppAzwne880xCCetM8EyV6Ukpsb29jf38fly5d4of7JwC/bQS/EhcnD8gHAkcktAXgLQB+aNEf
+8zwBISgaEjMa0UZLoiHuwjCE54lGsPz/QRAYEHxEUYjhcNgLAM3qjY0htra2DJAVsixDlmWNVuhM
+W80wspRDGEf9KQC/C2Cf5QacHVWrguBZLChPxrYB3ATgngWzbWaORCdCsre2hqAaoXM2lTilLsek
+wfClzikOGpQP5HmOPM8xHo9RliXqqoaCcrKwSikyS58D8AcA9liOQFFRvSgANghcCzgfNDBasGW2
+3zL+AMuAQBsPUzkAFLZ6nvYLbRjrQ8oAQmCGhojjuJNncJKvbwRBAEBgPB5jPB53eCUOAAdCSh8A
+To9Go0+xRC1nTnktIHAtIDPEnfEdhn8Xq4LQCrsFomuavCbBIprB92XjmHkmTH+Tk+4zR/bY2Bhi
+d3cXe3t7KIoCeZ47aXEiAJVSCILgRXt7ex+rquoioyooN1CrgGBrAc+KiRPaBvDrZh/rAoFrQlcj
+dPhK39OzXzbAuDSIAEnT9NDnNJ1OsbOz02hCnuedGgXXBkOTe0KIG/f39z9qgVDZnNAyILhyAu4L
+XgngrlWqcTYIJEjXa5tLeI1T5cSfrUW+70NAQBh/E8eHq0LmeY7Lly8jyzKURYmyKvW+RYfzV8/z
+bhiNRh+sqmrHyg/UOkHgEdGWmf3vMPtYBQRdKxYd7ob7B26a9N/SRFWi0QKuDZSBCwF40utku5wl
+7Ruj0Qij0QhZlqEoC/1atBpBGwdBKeUBeMFoNOotWS4y/J6wlNPUKYBrALxw1ZYMpQAhumaT4nPK
+UHlVzPM81HWFuvaQZRl838dkMmkqcC14GgQCgLSEF2LmFOIb/okoEcqu6Td5IEDAx3Hy+jndeAtr
+gnBkx4kxQxssL3jxyn0xAk4zxCmErllqqWYCyNYYOi6RcXVdN+9nWWaSsv5oWs/8woSrBfI8a/5H
+1TjbWRvfENR1fTbLsictTVDLgkCmKOoxRT9v/o/VzRGYIG1/wClmrzFDXPA023nWTe8BqgGLNkrE
+KN+wizVlqX1AnudN4kb5A+0XRdHUqjkYdV1fPxqNHmPh6VIhqu/okuPRUQTg+lV9AVd9LUhtmmyz
+RKZHm6a6ic/bthUdKk6nUxPG+h2fwvuR7BpzVVVN7YFApONRiEsEIZkkKrVSiGzzXXEcv4I1kZFZ
+WhgI31G2tPuFXrdo9GPvc6qYC4z7hNY3VKhrgarSQOjXipmnEp7nYTKZNFyP9h0tWJqSQANCkRUo
+igKTyUTXGvwAfuAbc6NNDjeFVOELw6DxPTR52uvz4HmePxwOf9SEq7xBWCxK4NnFe5/1DoWmnHeg
+4DlP7wpFeU4oBKyqljY9HBgY+kCItnlLiBJCoCHxuGni5UghhJn9bedFUWkQ0jTFYDBozpmTglTQ
+ocSPO2SqxgHdaC4Mwx8D8A/odmpjHZrAteG6eTPedpSufduW2x11pO6tuVIdmrmqWpvPgRNCgHqC
+SMuIYdU2vDZdeapJxIpCh6FhGJnkr27sPzc3bQ9UaGXp7bkYHurVqwBgh6jSYZJS2yH3JVt2xGOD
+QALiJom/xylt/lnuD4TwzCsdtxvmthpQsWSrRFVpAAaDAfI8b4o8NNN5psxbcqjGQX5BSn8mW/d9
+//mYXbdQLQOC7NGG2+YRcK4ZT7O6LwzlxyGOh4eiZK64E6ews6pKeJ5oGoD5IJ6nKNrkijvzoiga
+LaDqHPFMGiz0AOEzDfGYT2uSxziKohdkWTZexSfMa2V/gR1e8n3ubF0xv0srWqc2C+Cs/7BneW0S
+1NkkUCmF6XRqBFp1mFAi5kgbCBCKsrgZ06BV7Dy7ITXt+76HqqJ9//Ysy86gu8xrpRCVA/G8gws1
+3oyW8FKmS3vID7Q+xesU3O1+U16epXid/4+iJJ5t05bnOdI0RVEUiOO4sf9Ul6a6M31X80aFYU1r
+qx4tZurSxjl/z2g0+nvMrrdThwUBcK9g8V3+YBGSzq4rc01RCggCv/MZnkyR8KWUjR9wLQyZDXHr
+mToAJWV5njdlUcqSqYGAjkWmixf8be12XOOWRV8srAn2Yj2+SjGya8IHAcGFwyMgXjgnAo+qZ/yY
+XaBU8xlb2GSaPM/ny6c6QJE/iOMYZVkZMCokSdZoA18LIYSOlrSpygwY3RVCLtMrhBguI3xXod+1
+jDV0Z7yqU5i3qQK+cb/h0hb7PRfQ5A9sTWk1QkIpQMoaSklTBZMdkxRFGbJsijTNMJ1qgm4wGLCW
+ycB8R6GqCkZXlBad3ZWBAWRrWS2wQ1R73YFwNXSR0OnVnum2iXC9b+cYOknyGxPK36cZLmX3N3nl
+S39foa5F5/yklB1zRKQc9SJxc8R7krr+oY229DXU5nxkZ/JZxbGVNMFe/uqsFNlAEO1sawtdjP03
+d9Dt5+vGSdsBhg5L65mL1uanNOeiOvmGblfxm9CSwCAzNJ1SvpA1JikIInOs0jQBV8jzacOkttfT
+AqUU4OmLF8u2vvhzm4Nc8SADwg5R23i+6pgd/jcHj7/S96Vsw2yaYPw43Mx5nkBRlOZ7WhOUkg0o
+LSBdmrwoCkg5RpbpntU0jU1rzahTueNZNjGr9PutdtRQSo1WITZ9R4seD6tGh3HCPIJwmaZuFWyW
+vKNoSc8wWP2hYEJvtc7OkvU+Aavphbr2OjG+bh7w4HllkymHYYY8zxCGeiVQkkRNVEbRFSVxOhkk
+rQAjC+uLy1bVOAiuG3XUprnpwGjIFupB7Cp9hi5UAwgopStpQHdtmu3s7Z7RFoQaSnkmOppNGquq
+G9VQzxFvxc+yoENXk+/hJkknf+2ixKqqzlmyW5jKnnejjouHPRAJ0wUCDzVtU8VndTfS0sCQdXSt
+I9DMapdF1VpQd8zjnPgeQgiUZQkpAwSBbHqYNG3hN6Qhz7o1KJSHAEVR/OeyVTUOAgeCL2o4s+gB
+ecRCAuWhZV/kxD9P+3XdpUpmZ3/dsdH0GSr8u+J6DkAbgQkAWcPKUg2BtIEncmSeWjqkVKPR6Ekc
+ogX+IBBs4VNf5SVTultoqS3nbfrMSR/10VLROizVn28ZAN6WyO9zwdlVXmfm+y6N4r9L/BNfO00g
+0vGJ7CtLAqLcxQGLQBbRBIXZO6WUpufyqmVKmeTIiJtxJX722rCW3lCoKtXxG21NQjQmiwd1JPBu
+7+usBtj+ptsVrs9ZE3MhgLqTw3DTZzTim+jebWZpn8APQisOqZ/m28uAYGtFnzlqky05oyl8Jruq
+bmSOiDnlIHCtsv/HAwT7lW/T6XSmO5CXUI0/+TTcS6LUsuaI3yyJwPjSQSXOwwBBzCcPLSnsO8hE
+tUyqmDFH/LtkMqgm4eKk+vqhiI3ldIzNGVEdnxhgkwB+HLPLpJY2R9wElazb+CsGlGDVbgsdhbRO
+2uWwOXVgrzXWNw9RHZ9jM6guALgJcfFSrWmb1VCaAFWl4HlokjjjuC9lWfYtR8vLwubIvm2YfXuA
+AsBZALeso+2FC8/FvNJ7dhZuz1DSChcgXTkLuIlfYbXc8NoEz0Va9oY6OChpFEL8K2Zvn7OUJsCh
+CfY9Gj67LhBs89Q5GUNr2zRH1ySgKeJwjSEN4fZ6Hgi876k7IbTQ2/+pPspG5Xn+Z8xy1KuaI+6U
+adUJLY6emnxhhIXXqB0eCO4j+ux4axqqmRCVQOk6cgEh7CjqYCAO1boo5VNlWf4P3PeuWLgNEnPa
+XiKzUQ/Si7HmYReB7BjeFdpym20DYpdD++ocFGUt3cQr5e/Xdf0V6NU6tG5tqdU63BzVDp/A72Ly
+76YbL143CFwjbNNjt8N0q2vVTMR1JYaU8mxRFI8zOS29QIQ0wXWvUPsWaqHZH2INLfJ9YNiZbd/s
+twk8e7sCILyvrusn0d7dhZukpUEAZu8Zat+9MQRwAcCr1hGuzuvc6GuxcZkULnjeAHBUw/O8b1ZV
+9aBhmMkUFVjjwkGg240nHWDsAvjeo7hAm3aYB4LNI/H9IxwlgF8FcN4EKhOsuHLTdsx264vdLk8m
+agTgZqypXf4wZslFc3Q7sGtn/rHuIYT4Z6XUhx1asLJPgKPO3HcnXdKKbwL4ARzRvba5k7UjJZc5
+svePaFyAXkS/j3YNc7ZqjtBnjlwaQT6CgBAAdgynJI7Q/s5ohoupdXE9ax459PLhc8YSjNelBfN8
+Qh8QXCtG0GvbbjxKI8w1weaKXDWFo1BM6Ns2/5uh9UcmIrKXzqp1miNuluxEjjttzzio6wFcfZQg
+uIi3Ps7pCMZHAPyFCUi4M+ar+LEuTXCZJOEAxm6ZPAPgJdArPY/EP/SZITtzPoLxOIA/YhowtrSg
+XlULXCCgx8bbHVn2+qyvAnjZOrklWxv6suEj1IIvALjfaAB3xqQF9aq+YB4IOEA7+szWl6Fvw7N5
+VNrgqn7Nq12vMD4LfT+jy5YWZBZriqMwR33aoA4wWTS+Cr36/3k4ouEi9NYIgIK+n937jAZwP2BH
+Q2v70YPuBqkOAASYraueMSd7Ew55h8hVQVkTCBmAPwHwt0YDbAA4Ubc2LTiMORJzZoyrqE1s7DMG
+jJfBaq+/Eo57ifFtAPcaP8A1YIzZ26utFYBlQFA9IPCMkfbHAJ4wzvraK6EVS3JBHwHwkMmIXT7g
+sLfavGKOuQ8A3ixgP/HpG9DNAi+CpsKfC0OZQOI9xgnT7N9jJojf227tfmBREOZpRN+jtngLTWku
+6kkA3zJaMcCz87RDBeC/jeP9MHSv7WUWhtoAuMqWawfCX+Dk+UPdbK3gguc16il7pRt7fw16ae6P
+GO0IroDwpwD+C8BfQ3eOjMxG8T8lYZSI2T7gyABYBITDAGGDkDMABuZC6TEvYwBPQ9evXwngdujb
+NwRrFvzT0A+vO8WETRvN+gk7zwL93RNHRs+KFb7jeqqUfYeYmAmeb/QeNRFQweg66Nviv9DQIMkh
+o6vMCHYHwNehb6l/ztJC15ZZzrdwhKFHCgCwnkd88SdMuR7vFTGBJ9bf9OgvAqLz9EGLHnk5+COp
+tHC/gm7rJtdA3rJDZnFivWcL335MpLoCpnJtD7vrW4weWoCEFjj8lj70efuZnPb9Ilwd5KUFQs7A
+cL0WPabnipifdYNgH8N+7pr94FC7e4Nv9nM45z1y1+4i50CUlqD5k5/4rC/hfkjqFQVgXSCgh9QT
+jlltP4fT+RBUyxT1gWA/freyhMxnOhd89VwR/lGAcBAYLnNl79vFo74HV7uSQxuMCu7HA9c9dMuz
+NsQVOrZ9uwb7Hhq2+bHrFX0g1AwMO1+pHbb+wEe1/38DYR717arS2a84BAhwCLh20CnquSj8KwnC
+vN8TPRsc+30kIhxhpYtke04J/tkE4TC/L3o0yCXMeTb9OSv043E8jsfxOB7Ho2/8LxTo7DtP2ozg
+AAAAAElFTkSuQmCC
+"
+         id="image3670"
+         x="187.40753"
+         y="-21.396574" />
+    </g>
+    <g
+       id="g2340-5-4-1"
+       transform="matrix(0.26458333,0,0,0.26458333,95.138174,-167.10507)"
+       inkscape:export-filename="D:\git\CaptainCoderOrg\mono-sweeper\CaptainCoder.MonoSweeper\Content\buttons\blank.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         stroke="none"
+         fill="#ffffff"
+         d="m 345.05,465.5 v 0.05 L 345,466 v 33 q 0,1 1,1 h 37 q 1,0 1,-1 v -33 -0.45 l -0.05,-0.05 Q 383.75,465 383,465 h -37 q -0.75,0 -0.95,0.5 m -2.95,-0.45 Q 342.5,462 346,462 h 37 q 3.5,0 3.95,3.05 L 387,466 v 33 q 0,4 -4,4 h -37 q -4,0 -4,-4 v -33 l 0.1,-0.95"
+         id="path426-0-30-5" />
+      <path
+         stroke="none"
+         fill="#d5d5d5"
+         d="M 342.1,465.05 342,466 v 33 q 0,4 4,4 h 37 q 4,0 4,-4 v -33 l -0.05,-0.95 Q 386.5,462 383,462 h -37 q -3.5,0 -3.9,3.05 m -2.1,34.2 V 466 q 0,-6 6,-6 h 37 q 6,0 6,6 v 33.25 q -0.15,5.75 -6,5.75 h -37 q -5.85,0 -6,-5.75"
+         id="path428-1-69-0" />
+      <path
+         stroke="none"
+         fill="#eeeeee"
+         d="m 345.05,465.5 q 0.2,-0.5 0.95,-0.5 h 37 q 0.75,0 0.95,0.5 l 0.05,0.05 v 0.45 33 q 0,1 -1,1 h -37 q -1,0 -1,-1 v -33 l 0.05,-0.45 v -0.05"
+         id="path430-4-5-4" />
+      <path
+         stroke="none"
+         fill="#aaaaaa"
+         d="M 389,499.25 V 503 q 0,6 -6,6 h -37 q -6,0 -6,-6 v -3.75 q 0.15,5.75 6,5.75 h 37 q 5.85,0 6,-5.75"
+         id="path432-7-4-4" />
+    </g>
+    <image
+       width="7.2267518"
+       height="7.2267518"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAATtJREFU
+OI2lk79KA0EQh78545/GKlho49nZ2/sKtmJn4VNo5UvYWUgQfYAUFoLY2UlQGyGgBkFzHOG8hFx2
+b9fiLptE79Dor9oZ5vftzDIL/5QAWGvtn8wiUhkGR28HRAQAhEmH2MQw30eJYkAXgMHWqzOf3mRn
+B4gI2F3aJ+y3YREHa9IAoJtGXJ7U2T6ucnZ150AOECYdwn6bw5c9EquzpGcwokYtP8RAdWIMB4hN
+TERAYjUqzU0p2EqaFXozPN1X+CqX6amYJg1n1jaHKDCixyon5Q0Pifmgm0aTZnIzoLT+ASCDUrOL
+tSkfwYgi6L2zVl3Nbhx7vKH8i2vYXC8GzM2m3LbqWTfPBXvVggWzXN7Buf8Ifh5sfPcD7NRWigEi
+IsWWkcrW3StKTqOpAeNrDPlv/I2KRhAR+QRKqYsBpIXqAgAAAABJRU5ErkJggg==
+"
+       id="image3656"
+       x="187.96542"
+       y="-43.056992" />
+  </g>
+</svg>
