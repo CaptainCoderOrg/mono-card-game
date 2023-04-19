@@ -31,20 +31,29 @@ public class SweeperBoardRenderer
         }
     }
 
+    private bool _isFirstClick = true;
+
     public void HandleMouseButtonPressed(object? sender, MouseButtonEventArgs evt)
     {
-        Position pos = (evt.Y/CellSize, evt.X/CellSize);
-        BoardState state = Board.Reveal(pos);
-        if (state == BoardState.Playing)
+        Position pos = (evt.Y / CellSize, evt.X / CellSize);
+        if (!_board.Positions.Contains(pos)) { return;  }
+        if (_isFirstClick)
         {
-            UpdateSprite(pos);
+            Board.PlaceRandomMines(pos, 10);
+            _isFirstClick = false;
         }
-        else
+        if (evt.Button == Mouse.Button.Left)
         {
-            foreach (Position position in Board.Positions)
-            {
-                UpdateSprite(position);
-            }
+            Board.Reveal(pos);
+        }
+        else if (evt.Button == Mouse.Button.Right)
+        {
+            Board.ToggleFlag(pos);
+        }
+
+        foreach (Position position in Board.Positions)
+        {
+            UpdateSprite(position);
         }
     }
 
