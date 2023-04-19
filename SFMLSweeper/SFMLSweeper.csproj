@@ -11,4 +11,9 @@
     <PackageReference Include="SFML.Net" Version="2.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CaptainCoder.MineSweeper\CaptainCoder.MineSweeper.csproj" />
+    <ProjectReference Include="..\CaptainCoder.Core\CaptainCoder\Core\CaptainCoder.Core.csproj" />
+  </ItemGroup>
+
 </Project>
